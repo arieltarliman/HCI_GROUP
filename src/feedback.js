@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 countdownEl.textContent = timeLeft;
                 if (timeLeft <= 0) {
                     clearInterval(timer);
-                    window.location.href = 'landing_page.html';
+                    window.location.href = 'index.html';
                 }
             }, 1000);
         }, 1500);

@@ -1,4 +1,4 @@
-// landing_page.js
+// index.js
 
 document.addEventListener('DOMContentLoaded', function() {
 
